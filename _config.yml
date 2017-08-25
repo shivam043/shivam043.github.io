@@ -3,16 +3,16 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 
 # Setup
-title: Yash Mehrotra
+title: Shivam Singh
 tagline: ''
 description: 'Description'
 baseurl: ''
 paginate: 10
-github_repo: http://github.com/yashmehrotra/
+github_repo: http://github.com/shivam043/
 
 # About/contact
 author:
-  name: Yash Mehrotra
-  url: https://twitter.com/yashm95
-  email: yashmehrotra95@gmail.com
+  name: Shivam Singh
+  url: https://twitter.com/2shivamsingh
+  email: shivam043@gmail.com
 
