@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security Research Work for Directi
+title: Security Research Work for Directi Part1
 ---
 
 This post is regarding critical vulnerability i found on directi's codechef.com
@@ -26,8 +26,7 @@ I also viewed etc/profile ,etc/services,server configuration file,php configurat
 
 Some points:<br/>
 . Php version and server version were exposed in headers,attackers can take benefit from this information.<br/> 
-![Server version-]
-({{ site.url }}/public/blog/bruteforce-cyberoam-shell.png)
+![Server version-]({{ site.url }}/public/blog/bruteforce-cyberoam-shell.png)
 
 
 
