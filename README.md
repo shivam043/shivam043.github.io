@@ -1,2 +1,2 @@
 # shivam043.github.io
-My Homepage
+My Personal Blog
